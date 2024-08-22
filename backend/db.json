@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta Bic Preta",
+      "price": 5.9
+    },
+    {
+      "id": "1",
+      "name": "Panela Preta",
+      "price": 2.9
+    },
+    {
+      "id": "1",
+      "name": "Roda",
+      "price": 5
+    }
+  ]
+}
