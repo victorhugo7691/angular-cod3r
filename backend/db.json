@@ -2,11 +2,6 @@
   "products": [
     {
       "id": "1",
-      "name": "Caneta Bic Preta",
-      "price": 5.9
-    },
-    {
-      "id": "1",
       "name": "Panela Preta",
       "price": 2.9
     },
@@ -23,12 +18,27 @@
     {
       "id": "bb65",
       "name": "Notebook Lenovo",
-      "price": "4.600,00"
+      "price": "4600"
     },
     {
       "id": "b28f",
       "name": "Caldo de cana",
       "price": "6.00"
+    },
+    {
+      "id": "6aee",
+      "name": "Cabo HDMI",
+      "price": "22.00"
+    },
+    {
+      "id": "307c",
+      "name": "Corolla",
+      "price": "78300"
+    },
+    {
+      "id": "5291",
+      "name": "Opala 171",
+      "price": "250000"
     }
   ]
 }
