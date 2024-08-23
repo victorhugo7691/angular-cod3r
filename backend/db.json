@@ -14,6 +14,21 @@
       "id": "1",
       "name": "Roda",
       "price": 5
+    },
+    {
+      "id": "eb49",
+      "name": "Pamonha",
+      "price": 2.5
+    },
+    {
+      "id": "bb65",
+      "name": "Notebook Lenovo",
+      "price": "4.600,00"
+    },
+    {
+      "id": "b28f",
+      "name": "Caldo de cana",
+      "price": "6.00"
     }
   ]
 }
