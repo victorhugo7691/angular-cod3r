@@ -26,9 +26,9 @@ export class ProductReadComponent implements OnInit{
     })
   }
 
-  delete(id: string): void{
-    console.log("ID E O DELETE " + id);
-    this.productService.delete(id);
-    this.productService.showMessage('Produto deletado');
-  }
+  //delete(id: string): void{
+    //console.log("ID E O DELETE " + id);
+    //this.productService.delete(id);
+    //this.productService.showMessage('Produto deletado');
+ // }
 }

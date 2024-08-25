@@ -1,0 +1,13 @@
+<mat-card>
+  <mat-card-title> Realmente deseja deletar o Produto? </mat-card-title>
+  <form class="form-create">
+    <mat-form-field>
+      <input [value]="product.name" name="name" matInput disable >
+    </mat-form-field>
+  </form>
+</mat-card>
+
+
+<button mat-raised-button (click)="delete(true)" color="warn"> Confirmar</button>
+
+<button mat-raised-button (click)="delete(false)" color="secundary"> Cancelar </button>

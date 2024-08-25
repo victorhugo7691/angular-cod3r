@@ -1,21 +1,6 @@
 {
   "products": [
     {
-      "id": "1",
-      "name": "Panela Preta",
-      "price": 2.9
-    },
-    {
-      "id": "1",
-      "name": "Roda",
-      "price": 5
-    },
-    {
-      "id": "eb49",
-      "name": "Pamonha",
-      "price": 2.5
-    },
-    {
       "id": "bb65",
       "name": "Notebook Lenovo",
       "price": "4600"
@@ -39,6 +24,11 @@
       "id": "5291",
       "name": "Opala 171",
       "price": "250000"
+    },
+    {
+      "id": "66f6",
+      "name": "Teste",
+      "price": "10"
     }
   ]
 }
